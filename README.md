@@ -27,6 +27,8 @@
    <img align="center"  height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.png">
    <img align="center"  height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center"  height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
+                                                                                                                          <img align="center"  height="30" width="60" src="https://miro.medium.com/max/640/1*gIAzcGWffRV7bNSCU6NEUw.png"> 
+                                                                                                                         
   
   
 
