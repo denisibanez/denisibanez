@@ -23,7 +23,6 @@
    <img align="center"  height="30" width="40" src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor">
    <img align="center"  height="30" width="40" src=https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor">
    <img align="center"  height="30" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=currentColor">
-   <img align="center"  height="30" width="40" src="https://icongr.am/devicon/slack-original.svg?size=128&color=currentColor">
    <img align="center"  height="30" width="40" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.png">
    <img align="center"  height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center"  height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"> 
